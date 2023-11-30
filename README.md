@@ -1,3 +1,6 @@
+I not bot
+My discord ThomasDespres#2903
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
